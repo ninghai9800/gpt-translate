@@ -141,3 +141,6 @@ For more information, please refer to the [website](https://g-t.vercel.app/docs/
 
 ## 📃 License
 MIT License
+
+# 魔改v1
+1. 若api-key无效。[申请免费api](https://github.com/chatanywhere/GPT_API_free),填入Setting -> Actions secrets and variables -> Repository secrets -> OPENAI_API_KEY
